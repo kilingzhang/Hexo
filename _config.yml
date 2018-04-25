@@ -5,7 +5,7 @@
 # Site 
 title: Slight的博客 
 subtitle: 尽力而为、愿后世不悔。
-description: XTU软工程序员一枚,默默地搬运代码~~。 
+description: XTU软工程序员一枚,默默地搬运代码~~。
 author: Kilingzhang
 email: slight@kilingzhang.com
 keywords: "PHP Android QQ机器人"
@@ -13,7 +13,6 @@ keywords: "PHP Android QQ机器人"
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://blog.kilingzhang.com
-#url: https://slight-sky.github.io
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -114,7 +113,7 @@ feed:
 
 sitemap:
        path: sitemap.xml
-       
+
 baidusitemap:
         path: baidusitemap.xml
 
@@ -136,4 +135,3 @@ jsonContent:
       excerpt: false
       categories: false
       tags: true
-
